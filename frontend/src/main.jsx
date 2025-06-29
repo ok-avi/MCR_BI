@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 
 import App from './App.jsx'
 import JobPosting from "./pages/JobPostings.jsx"
-import Postjob from "./pages/Postjob.jsx"
+import Postjob from "./pages/PostJob.jsx"
 import JobDetails from "./pages/JobDetails.jsx"
 
 import "bootstrap/dist/css/bootstrap.min.css"
