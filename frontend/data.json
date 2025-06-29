@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "1",
+    "job": "Software Engineer",
+    "company": "TechCorp",
+    "location": "San Francisco, CA",
+    "salary": 120000,
+    "jobType": "Full-time (On-site)",
+    "description": "Develop and maintain scalable web applications. Collaborate with cross-functional teams.",
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full-stack development."
+    ]
+  },
+  {
+    "_id": "2",
+    "job": "Content Writer",
+    "company": "Creative Ink",
+    "location": "Austin, TX",
+    "salary": 40000,
+    "jobType": "Part-time (Remote)",
+    "description": "Create engaging and SEO-friendly content for blogs, articles, and social media. Collaborate with the marketing team to align content with brand strategy.",
+    "qualifications": [
+      "Bachelor's degree in English, Journalism, Communications, or related field.",
+      "1+ years of experience in content writing or copywriting."
+    ]
+  },
+  {
+    "_id": "3",
+    "job": "Data Analyst",
+    "company": "Data Insight Inc.",
+    "location": "Chicago, IL",
+    "salary": 85000,
+    "jobType": "Full-time (On-site)",
+    "description": "Analyze and interpret complex data sets to support business decisions. Create reports, dashboards, and data visualizations for stakeholders.",
+    "qualifications": [
+      "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field.",
+      "2+ years of experience in data analysis or business intelligence."
+    ]
+  },
+  {
+    "_id": "4",
+    "job": "UI/UX Designer",
+    "company": "Design Studio",
+    "location": "Seattle, WA",
+    "salary": 60000,
+    "jobType": "Part-time (On-site)",
+    "description": "Design user-friendly interfaces and enhance user experience across web and mobile platforms. Collaborate with developers and product managers to deliver intuitive design solutions.",
+    "qualifications": [
+      "Bachelor's degree in Design, Human-Computer Interaction, or related field.",
+      "2+ years of experience in UI/UX design with a strong portfolio."
+    ]
+  },
+  {
+    "_id": "5",
+    "job": "DevOps Engineer",
+    "company": "Cloud Tech",
+    "location": "Remote",
+    "salary": 115000,
+    "jobType": "Full-time (Remote)",
+    "description": "Implement and manage CI/CD pipelines, automate infrastructure, and monitor system performance. Work closely with development and operations teams to ensure system reliability and scalability.",
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "3+ years of experience in DevOps or cloud infrastructure management."
+    ]
+  },
+  {
+    "_id": "6",
+    "job": "Customer Support Representative",
+    "company": "Supportly",
+    "location": "Remote",
+    "salary": 40000,
+    "jobType": "Full-time (Remote)",
+    "description": "Provide timely and professional support to customers via chat, email, and phone. Resolve issues, answer queries, and ensure customer satisfaction.",
+    "qualifications": [
+      "High school diploma or equivalent; Bachelor's degree preferred.",
+      "1+ years of experience in customer service or support roles."
+    ]
+  }
+]
