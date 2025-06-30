@@ -17,7 +17,7 @@ const JobPostings = () => {
   //   : data;
 
   function deleteJob(id) {
-    const url = `https://mcr-bi.vercel.app/v1/job/${id}`
+    const url = `https://mcr-bi.vercel.app/api/v1/job/${id}`
     const option = {
       method:"DELETE"
     }
